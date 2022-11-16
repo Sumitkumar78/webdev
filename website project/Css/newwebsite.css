@@ -43,3 +43,9 @@ a{
 p{
     text-align: justify;
 }
+a:hoveer{
+    color: #8f8;
+}
+.more-link{
+    font-style: italic;
+}
