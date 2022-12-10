@@ -1,0 +1,11 @@
+body{
+    color: black;
+}
+#new{
+    color: black;
+
+    border-radius: 20px;
+}
+.list{
+    float: left;
+}
